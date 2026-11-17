@@ -1,0 +1,6 @@
+{
+  "name": "AI Crypto Signal Intelligence",
+  "description": "AI-powered Binance USDT-M Futures scalping signal platform with multi-timeframe technical analysis, Smart Money Concepts, deterministic 100-point scoring, and Telegram lifecycle tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
